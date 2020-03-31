@@ -1,5 +1,3 @@
 <<<<<<< HEAD
 World
-=======
-HEllo
->>>>>>> branch2
+
